@@ -32,7 +32,7 @@ I'm a passionate developer who loves building things that *actually work*.
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-### ⚙️ Backend / Frontend / Data
+### ⚙️ Backend
 
 ![Actix Web](https://img.shields.io/badge/Actix%20Web-000000?style=for-the-badge\&logo=rust\&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
