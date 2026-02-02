@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer who loves building things that *actually work*.
+An Economics Graduate, learnt dev bc i luv it, and magician in what i do.
 
 * 🧠 Focused on **Python** & **Rust**
 * 🛠 Backend & Frontend developer
