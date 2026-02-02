@@ -1,6 +1,6 @@
 # Abracadabra
 
-## 🚀 About Me
+## About Me 👨🏼‍🎨
 
 An Economics Graduate, learnt dev bc i luv it, and magician in what i do.
 
